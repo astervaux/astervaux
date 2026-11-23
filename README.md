@@ -1,36 +1,10 @@
-## Delivery pipeline
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<p align="left"> <a href="https://twitter.com/astervaux" target="blank"><img src="https://img.shields.io/twitter/follow/astervaux?logo=twitter&style=for-the-badge" alt="astervaux" /></a> </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=astervaux&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351060532%3Fu%3D97689ef9b2f0a163bc3d573053bf6ccc7a0ba265%26v%3D4" alt="astervaux hero visual" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/astervaux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astervaux" height="30" width="40" /></a>
 </p>
 
-
-## Uptime in motion
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=astervaux&theme=github-dark" alt="astervaux contribution activity" />
-</p>
-
-## Service signals
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=astervaux&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351060532%3Fu%3D97689ef9b2f0a163bc3d573053bf6ccc7a0ba265%26v%3D4" alt="astervaux stats visual" />
-</p>
-
-
-## Platform toolkit
-
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=astervaux&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351060532%3Fu%3D97689ef9b2f0a163bc3d573053bf6ccc7a0ba265%26v%3D4" alt="astervaux stack visual" />
-</p>
-
-## Keep it moving
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=astervaux&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351060532%3Fu%3D97689ef9b2f0a163bc3d573053bf6ccc7a0ba265%26v%3D4" alt="astervaux social visual" />
-</p>
-
-<a href="https://x.com/astervaux">X</a> · <a href="https://x.com/astervaux">X</a>
-
-<p align="center"><sub>Aditya Panhalkar
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
